@@ -1,0 +1,20 @@
+
+__pycache__/
+*.pyc
+
+.venv/
+
+.pucache/
+
+.env
+
+faiss_index/
+
+*.pdf
+*.docx
+*.txt
+*.md
+
+
+# Exceptions
+!requirements.txt
